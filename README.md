@@ -20,8 +20,8 @@ I’m interested in software development, game development, and the ideas that c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/flipman62/Tetris_Godot">tetris_godot</a></h3>
-      <p>A Godot project exploring game development through a focused, hands-on build.</p>
+      <h3><a href="https://github.com/flipman62/Tetris_Godot">Tetris_Godot</a></h3>
+      <p>My own version of Tetris made in Godot Game Engine (unfinished).</p>
       <a href="https://github.com/flipman62/Tetris_Godot"><img src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github" alt="View tetris_godot"></a>
       <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript">
     </td>
