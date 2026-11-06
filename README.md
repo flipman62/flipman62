@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm flipman62 👋
+# Hey, I'm flipman
 
 ### I like building software and games.
 
@@ -13,7 +13,7 @@
 
 ## About me
 
-I’m interested in software development, game development, and the ideas that connect the two. I like building things from the ground up — from interactive games and simulations to tools that solve real problems.
+I’m interested in software development, game development, and the ideas that connect the two. I like building things from the ground up, from interactive games and simulations to tools that solve real problems.
 
 ## Featured projects
 
@@ -46,13 +46,6 @@ I’m interested in software development, game development, and the ideas that c
     </td>
   </tr>
 </table>
-
-## Current interests
-
-- 🎮 Game development, game logic, and interactive experiences
-- 💻 Software development and building useful applications
-- 🧠 AI, digital authenticity, and technology policy
-- 🛠️ Learning by making — and improving projects one iteration at a time
 
 <div align="center">
 
