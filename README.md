@@ -20,10 +20,10 @@ I’m interested in software development, game development, and the ideas that c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/flipman62/dogwhistle">dogwhistle</a></h3>
-      <p>A JavaScript project exploring software development through a focused, hands-on build.</p>
-      <a href="https://github.com/flipman62/dogwhistle"><img src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github" alt="View dogwhistle"></a>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript">
+      <h3><a href="https://github.com/flipman62/Tetris_Godot">tetris_godot</a></h3>
+      <p>A Godot project exploring game development through a focused, hands-on build.</p>
+      <a href="https://github.com/flipman62/Tetris_Godot"><img src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github" alt="View tetris_godot"></a>
+      <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript">
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/flipman62/AI_Policy_Hackathon">AI Policy Hackathon</a></h3>
@@ -57,5 +57,7 @@ I’m interested in software development, game development, and the ideas that c
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@flipman62-181717?style=for-the-badge&logo=github)](https://github.com/flipman62)
+
+[![itch.io](https://img.shields.io/badge/itch.io-@the--antilope-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://the-antilope.itch.io/)
 
 </div>
