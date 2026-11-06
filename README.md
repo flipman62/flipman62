@@ -60,4 +60,6 @@ I’m interested in software development, game development, and the ideas that c
 
 [![itch.io](https://img.shields.io/badge/itch.io-@the--antilope-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://the-antilope.itch.io/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn- Gabriel%20Mahler-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mahler-7533013b/)
+
 </div>
